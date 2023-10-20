@@ -1,0 +1,33 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Plus Graphics (ID=0x8a52)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   30.0.100.9864
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.015 seconds
+Platform assembly: C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\QjmSoftware\OneDrive\Escritorio\3-2023\Prog. Videojuegos\Semana 5\RollABallDModif\Build\Roll a ball_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.083800 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 630 -> priority: 1 
+  Thread -> id: 2640 -> priority: 1 
+  Thread -> id: 3ef0 -> priority: 1 
+  Thread -> id: 3410 -> priority: 1 
