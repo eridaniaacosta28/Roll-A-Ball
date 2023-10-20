@@ -18,7 +18,8 @@ public class JugadorController : MonoBehaviour
 
     //Inicializo variables para los textos
     public Text textoContador, textoGanar, textoNombre;
-    
+
+    private AudioSource coinSound;
 
     // Use this for initialization
     void Start()
@@ -32,8 +33,10 @@ public class JugadorController : MonoBehaviour
         //Actualizo el texto del contador por pimera vez
         //setTextoContador();
         //Inicio el texto de ganar a vacío
-        // textoGanar.text = "";
-        
+         textoGanar.text = "";
+
+        coinSound = GameObject.Find("CoinSound").GetComponent<AudioSource>();
+
     }
 
     // Update is called once per frame
@@ -59,10 +62,17 @@ public class JugadorController : MonoBehaviour
 
             //Incremento el contador en uno (también se peude hacer como contador++)
             contador = contador + 1;
+            coinSound.Play();
+
+            textoContador.text = "Contador: " + contador.ToString();
+            if (contador >= 10)
+            {
+                textoGanar.text = "¡Ganaste!";
+            }
 
             //Actualizo elt exto del contador
             // setTextoContador();
-            
+
         }
 
 
